@@ -28,8 +28,6 @@
 {
     self.account = nil;
     
-    //清除不必要的序列化数据，多用于清除密码或账号
-    [UserDefaults removeObjectForKey:account];
 }
 
 @end
