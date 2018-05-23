@@ -9,7 +9,7 @@
 #ifndef GSXKit_h
 #define GSXKit_h
 
-#import "GlobalDataManager.h"
+#import <Manager/GlobalDataManager.h>
 
 
 #endif /* GSXKit_h */
